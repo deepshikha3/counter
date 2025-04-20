@@ -1,4 +1,8 @@
 # Simple Counter
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/61215a2f-dc91-406b-b6a7-81d6dbb4e13e" />
+
+
 ( Note to self : Project name under /dist folder is untitled3 so please be cautious
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
