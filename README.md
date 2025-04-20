@@ -3,7 +3,17 @@
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/61215a2f-dc91-406b-b6a7-81d6dbb4e13e" />
 
 
-( Note to self : Project name under /dist folder is untitled3 so please be cautious
+( Note to self : Project name under /dist folder is untitled3 so please be cautious)
+
+(Commands I use to push and deploy here , in order) :  
+git init
+git remote add origin https://github.com/deepshikha3/counter.git         
+ git add .
+git commit -m "Initial commit to Git"
+  git push -u origin master
+ npm install -g angular-cli-ghpages
+ ng build --base-href /counter/
+ npx angular-cli-ghpages --dir=dist/untitled3
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
 
