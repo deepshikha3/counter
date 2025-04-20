@@ -1,4 +1,5 @@
-# Untitled3
+# Repository name :  Counter
+( Note to self : Project name under /dist folder is untitled3 so pleas be cautious
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
 
